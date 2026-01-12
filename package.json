@@ -11,7 +11,7 @@
     "react-data-grid": "5.0.1",
     "react-data-grid-addons": "5.0.4-2",
     "react-dom": "16.7.0-alpha.0 - next",
-    "react-scripts": "2.0.3"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
